@@ -59,7 +59,7 @@ function App() {
           {prediction.map(({ label, confidence}) => (
             <li key={uuidv4()}>
               <span><b>Label:</b> {label}</span>
-              <span><b>Confidence:</b> {confidence.toFixed(5)}%</span>
+              <span><b>Confidence:</b> {confidence.toFixed(5)}</span>
             </li>
           ))}
         </ul>

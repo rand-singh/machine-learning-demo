@@ -1,3 +1,11 @@
+# Machine Learning / Artifical Intelligence
+
+This project uses [ml5.js](https://ml5js.org/).
+
+Making machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies
+
+Download and play with the app, upload your own pictures and see the results from the Image clasifier model from ml5!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
