@@ -6,6 +6,8 @@ Making machine learning approachable for a broad audience of artists, creative c
 
 Download and play with the app, upload your own pictures and see the results from the Image clasifier model from ml5!
 
+<img width="350" alt="machine-learning-demo-small" src="https://user-images.githubusercontent.com/18405735/110938954-9239e700-832c-11eb-9e30-8ba9361af6f4.PNG">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
