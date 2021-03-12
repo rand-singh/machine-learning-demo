@@ -44,6 +44,8 @@ function App() {
   return (
     <div className='app'>
       <h1>Machine learning App!</h1>
+      <p>try uploading your own pictures!</p>
+      <br/>
       <input type='file' onChange={fileSelectHandler} />
       <br/>
       <img ref={imageRef} className='candidate-image' src={file} alt=''/>
